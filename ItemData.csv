@@ -1,0 +1,672 @@
+ID,Description,Volume,Cost,Category
+1,A To Z,750ml,$11.33 ,Wine-White
+2,Aberfeldy 12yr Highland Single Malt Scotch,750ml,$27.80 ,Liquor-Scotch
+3,Absente,750ml,$33.35 ,Liquor-Cordial
+4,Absolut,1L,$29.88 ,Liquor-Vodka
+5,Absolut Citron,1L,$32.03 ,Liquor-Vodka
+6,Absolut Kurant,750ml,$23.00 ,Liquor-Vodka
+7,Absolut Kurant,1L,$31.63 ,Liquor-Vodka
+8,Absolut Mandarin,1L,$26.50 ,Liquor-Vodka
+9,Absolut Ruby Red,1L,$26.50 ,Liquor-Vodka
+10,Absolut Vanilla Vodka,750ml,$23.00 ,Liquor-Vodka
+11,Ace Of Spades,750ml,$226.10 ,Wine-White
+12,Adelsheim Bryan Creek Pn,750ml,$50.00 ,Wine-Unlisted
+13,Adelsheim Caitlins Res Chard,750ml,$29.00 ,Wine-Unlisted
+14,Adelsheim Chardonnay,750ml,$16.95 ,Wine-Unlisted
+15,Adelsheim Deglace,375ml,$23.00 ,Wine-Dessert
+16,Adelsheim Elizabeths Res,750ml,$39.80 ,Wine-Red
+17,Adelsheim Pinot Blanc,750ml,$17.00 ,Wine-Unlisted
+18,Adelsheim Pinot Gris,750ml,$14.00 ,Wine-Unlisted
+19,Adelsheim Syrah,750ml,$31.50 ,Wine-Unlisted
+20,Adelsheim Vintage 31,750ml,$120.00 ,Wine-Unlisted
+21,Adelshiem Pinot Noir Rose,750ml,$14.00 ,Wine-Unlisted
+22,Adult Choc Milk,1L,$24.45 ,Liquor-Cordial
+23,Akvinta Organic,750ml,$30.00 ,Liquor-Vodka
+24,Altesino Brunello di Montalcino,375ml,$22.50 ,Wine-Half Bottle
+25,Alvear Pedro Ximenez 1927,375ml,$15.99 ,Wine-Dessert
+26,Amaro Montenegro,750ml,$23.98 ,Liquor-Liqueur
+27,American Harvest Organic,1L,$29.50 ,Liquor-Vodka
+28,Amstel Light,12oz,$1.26 ,Beer
+29,Amstel Light Can,12oz,$1.26 ,Beer
+30,Angel's Envy Port Barrel Finished Bourbon,750ml,$0.00 ,Liquor-Tequila
+31,Angels Envy Rye Whiskey,750ml,$66.30 ,Liquor-Bourbon
+32,Angostura Bitters,16oz,$21.55 ,Liquor-Liqueur
+33,Annalisa Moscato,750ml,$7.99 ,Wine-Sales Items
+34,Antinori Brunello 07,750ml,$52.50 ,Wine-Red
+35,Antinori Tignanello,750ml,$84.30 ,Wine-Red
+36,Aperol,750ml,$20.55 ,Liquor-Liqueur
+37,"Apple Pucker, Mr. Boston",1L,$4.25 ,Liquor-Liqueur
+38,Appleton Estate,1L,$22.15 ,Liquor-Rum
+39,"Argyle ""Nuthouse""",750ml,$36.80 ,Wine-Red
+40,Arrow Blue Curacao,750ml,$6.70 ,Liquor-Liqueur
+41,Arrow Creme de Cacao Dark,1L,$8.63 ,Liquor-Liqueur
+42,Arrow Creme de Menthe Green,1L,$12.73 ,Liquor-Liqueur
+43,Arrow Sour Apple Smackers,1L,$6.17 ,Liquor-Liqueur
+44,Avion Espresso,750ml,$33.72 ,Liquor-Tequila
+45,Avion Silver,750ml,$33.72 ,Liquor-Tequila
+46,B&B Liqueur,1L,$41.25 ,Liquor-Cordial
+47,B&G Sauternes,750ml,$22.00 ,Wine-Dessert
+48,Bacardi 8 Anos Rum,1L,$0.00 ,Liquor-Rum
+49,Bacardi Light,1L,$13.00 ,Liquor-Rum
+50,Baileys Irish Cream,1L,$32.65 ,Liquor-Cordial
+51,Balvenie 21,750ml,$192.30 ,Liquor-Scotch
+52,Balvenie 12yr Double Wood Single Malt Scotch,750ml,$62.55 ,Liquor-Scotch
+53,Balvenie 14yr Caribbean Cask Scotch,750ml,$33.33 ,Liquor-Scotch
+54,Banfi Brunello Di Montacino,750ml,$55.00 ,Wine-Red
+55,Banfi Cum Laude,750ml,$29.98 ,Wine-Red
+56,Banfi Grappa,750ml,$40.48 ,Wine-Dessert
+57,Banfi Rosa Regale Brachetto d'Acqui [2014],750ml,$15.00 ,Wine-Dessert
+58,Barone Fini,750ml,$7.50 ,Wine-House
+59,Bartenura Pinot Grigio,750ml,$11.25 ,Wine-Unlisted
+60,Bartenura Rosso Do Montalcino,750ml,$9.75 ,Wine-Unlisted
+61,Basil Hayden,750ml,$40.45 ,Liquor-Bourbon
+62,Beaulieu Coastal,750ml,$6.75 ,Wine-Red
+63,Beck N/A Beer Btl,12oz,$0.95 ,Beer
+64,Becks Dark,12oz,$0.99 ,Beer
+65,Beefeater Gin,1L,$25.25 ,Liquor-Gin
+66,Belle Glos Pinot Noir Dairyman,750ml,$46.80 ,Wine-Red
+67,Belvedere (60/2Nd),1L,$37.60 ,Liquor-Vodka
+68,Belvedere Wild Berry,1L,$30.40 ,Liquor-Vodka
+69,Beringer Cabernet Knights Valley [2013],750ml,$15.00 ,Wine-Red
+70,Beringer White Zinfandel,750ml,$4.60 ,Wine-Rose
+71,bertani vdpelante pinot grigio,750ml,$0.00 ,
+72,Bertani Verona,750ml,$12.50 ,Wine-Red
+73,Blackberry Brandy,1L,$10.40 ,Liquor-Liqueur
+74,Blantons,750ml,$46.48 ,Liquor-Bourbon
+75,Blue Moon,12oz,$1.30 ,Beer
+76,Blue Point Oktoberfest,12oz,$1.29 ,Beer
+77,Bombay Gin,1L,$19.51 ,Liquor-Gin
+78,Bombay Saphire Gin,1L,$29.00 ,Liquor-Gin
+79,Bookers,750ml,$52.05 ,Liquor-Bourbon
+80,Bowmore,750ml,$41.30 ,Liquor-Scotch
+81,Br Cohn,750ml,$13.00 ,Wine-Red
+82,Buckler,12oz,$1.10 ,Beer
+83,Bud Light bottle,12oz,$0.93 ,Beer
+84,Bud Light can,12oz,$0.90 ,Beer
+85,Budweiser bottle,12oz,$0.93 ,Beer
+86,Budweiser can,12oz,$0.91 ,Beer
+87,Bulleit Rye,1L,$33.15 ,Liquor-Bourbon
+88,Burgans Albarino,750ml,$9.99 ,Wine-Sales Items
+89,Butterscotch,750ml,$12.45 ,Liquor-Liqueur
+90,BV Coastal Merlot,750ml,$6.75 ,Wine-Red
+91,BV Napa Valley Merlot,750ml,$15.00 ,Wine-Red
+92,Ca'Del Bosco,750ml,$25.00 ,Wine-White
+93,Cabernet Espresso,250ml,$1.50 ,Wine-Can
+94,Cakebread Cab,750ml,$56.48 ,Wine-Red
+95,Cakebread Chardonnay,750ml,$29.00 ,Wine-White
+96,Cakebread Chardonnay,375ml,$20.03 ,Wine-Half Bottle
+97,Cakebread Sauvignon Blanc,750ml,$22.98 ,Wine-White
+98,Calico Jack,1L,$7.75 ,Liquor-Rum
+99,Calypso,1L,$8.00 ,Liquor-Rum
+100,Campari,1L,$35.40 ,Liquor-Cordial
+101,Canadian Club 6yr Whisky,1L,$22.35 ,Liquor-Whiskey
+102,Captain Morgan,1L,$20.15 ,Liquor-Rum
+103,Captain Morgan Reby Red,1L,$19.90 ,Liquor-Rum
+104,Caravella Limoncello,750ml,$0.00 ,
+105,Carpano Punt Mes Vermouth,750ml,$18.73 ,Liquor-Cordial
+106,Casa Lapostolle Cabernet 98 [2013],750ml,$14.95 ,Wine-Red
+107,Casalvento Dream,750ml,$28.00 ,Wine-Unlisted
+108,Casalvento Janus,750ml,$34.99 ,Wine-Unlisted
+109,Casamigo,1L,$63.65 ,Liquor-Tequila
+110,cavicchioli lambrusco,750ml,$5.25 ,Wine-Unlisted
+111,Caymus,750ml,$55.80 ,Wine-Red
+112,Cedilla Brazil Liquer,750ml,$22.80 ,Liquor-Cordial
+113,Ch Haut La Pereyre Bordeaux,750ml,$10.67 ,Wine-Red
+114,Chambord,750ml,$28.20 ,Liquor-Cordial
+115,Chardonnay Cappuccino,250ml,$1.50 ,Wine-Can
+116,Charles Smith Vel Dvl Merlot,750ml,$8.67 ,Wine-Sales Items
+117,Chat Bastide Dauzac Margaux,750ml,$31.55 ,Wine-Red
+118,Chat Bonnet Rouge,750ml,$11.80 ,Wine-Red
+119,Chat De Montfort Vouvray,750ml,$12.00 ,Wine-White
+120,Chat Ste Michelle,750ml,$11.25 ,Wine-Red
+121,Chat Tour De Segur,750ml,$19.05 ,Wine-Red
+122,Chateau De Nages,750ml,$14.99 ,Wine-Unlisted
+123,Chateau La Freynelle,750ml,$9.50 ,Wine-White
+124,chateau la lagune [2011],750ml,$63.99 ,Wine-Red
+125,chateau larrivet haut-brion [2009],750ml,$37.33 ,Wine-Red
+126,chateau margaux segla [2008],750ml,$40.67 ,Wine-Red
+127,Chateau Montelena,750ml,$39.30 ,Wine-Red
+128,Chimay,12oz,$4.63 ,Beer
+129,Chimay Ale Btl,22oz,$10.00 ,Beer
+130,Chivas Regal 12yr Blended Scotch,1L,$46.90 ,Liquor-Scotch
+131,Chopin Potato Vodka,750ml,$22.50 ,Liquor-Vodka
+132,Chopin Vodka,1L,$39.95 ,Liquor-Vodka
+133,Chopin Wheat,1L,$35.25 ,Liquor-Vodka
+134,Christian Brothers Ruby Port,750ml,$4.13 ,Wine-Unlisted
+135,Ciroc,1L,$39.15 ,Liquor-Vodka
+136,Ciroc Peach,1L,$38.40 ,Liquor-Vodka
+137,Ciroc Red Berry,1L,$38.40 ,Liquor-Vodka
+138,Clifford Bay,750ml,$6.75 ,Wine-House
+139,Cockburn's 10 Year Tawny,500ml,$18.17 ,Wine-Dessert
+140,Cockburn's 20 Year Tawny,500ml,$30.67 ,Wine-Dessert
+141,Cockburn's Fine Tawny,750ml,$11.17 ,Wine-Dessert
+142,"Cocktail Onions, Forest Fl",8oz,$2.85 ,Liquor-Mixer
+143,Cointreau,1L,$38.95 ,Liquor-Cordial
+144,Col D'Orcia Brunello,375ml,$26.90 ,Wine-Half Bottle
+145,Conn Creek Anthology,750ml,$39.30 ,Wine-Red
+146,Conundrum,375ml,$8.55 ,Wine-Half Bottle
+147,Conundrum,750ml,$19.00 ,Wine-White
+148,Coors Light,12oz,$0.98 ,Beer
+149,Corona bottle,12oz,$1.24 ,Beer
+150,Corona can,12oz,$1.20 ,Beer
+151,"Crème De Almond, Dekuyper",1L,$12.45 ,Liquor-Liqueur
+152,"Crème De Cassis, Arrow",750ml,$8.90 ,Liquor-Liqueur
+153,Crème De Menthe Green Dek,1L,$12.73 ,Liquor-Liqueur
+154,Crème De Menthe White Dek,1L,$10.90 ,Liquor-Liqueur
+155,Crios Cabernet,750ml,$9.99 ,Wine-Sales Items
+156,Crispin,12oz,$1.65 ,Beer
+157,Crown Royal,1L,$38.15 ,Liquor-Whiskey
+158,Crown Royal,750ml,$26.55 ,Liquor-Whiskey
+159,Crown Royal Spec Reser,1L,$51.40 ,Liquor-Whiskey
+160,Crown XO,1L,$42.30 ,Liquor-Whiskey
+161,Cruz de Alba Crianza,750ml,$14.00 ,Wine-Red
+162,Cuvaison Carneros Chardonnay [2012],750ml,$17.48 ,Wine-Unlisted
+163,D'Arenberg Laughing Magpie,750ml,$21.30 ,Wine-Red
+164,Dailys Pina Coloda,1L,$2.89 ,Liquor-Mixer
+165,Dailys Pina Coloda,0.5gal,$5.66 ,Liquor-Mixer
+166,Dailys Sour Mix,1L,$2.89 ,Liquor-Mixer
+167,Dailys Sour Mix,0.5gal,$5.66 ,Liquor-Mixer
+168,Dailys Str Daiq,1.75L,$4.50 ,Liquor-Mixer
+169,Dailys Str Daiq,0.5gal,$5.66 ,Liquor-Mixer
+170,Dalwhinnie,1L,$56.55 ,Liquor-Scotch
+171,Darioush Caravan,750ml,$37.48 ,Wine-Red
+172,Dassai,720ml,$85.99 ,Wine-Sake
+173,Dauvernge Ranvier Luberon,750ml,$7.33 ,Wine-Red
+174,Deep Eddy,1L,$19.70 ,Liquor-Vodka
+175,Deep Eddy Lemon,1L,$19.70 ,Liquor-Vodka
+176,Deep Eddy Ruby Red,750ml,$19.70 ,Liquor-Vodka
+177,dekuyper apicot brandy,1L,$12.98 ,Liquor-Liqueur
+178,Dekuyper Apricot Brandy,750ml,$12.98 ,Liquor-Liqueur
+179,Dekuyper Cacao White,1L,$12.45 ,Liquor-Liqueur
+180,DeKuyper Creme de Menthe White,1L,$10.90 ,Liquor-Liqueur
+181,DeKuyper Island Punch Pucker,1L,$12.98 ,Liquor-Liqueur
+182,Dekuyper Peachtree,1L,$12.98 ,Liquor-Liqueur
+183,Deleon Platinum,750ml,$53.80 ,Liquor-Tequila
+184,Deleon Reposado,750ml,$57.30 ,Liquor-Tequila
+185,Devotion,750ml,$14.00 ,Liquor-Vodka
+186,Devotion Black & Blue,750ml,$14.00 ,Liquor-Vodka
+187,Devotion Blood Orange,750ml,$14.00 ,Liquor-Vodka
+188,Devotion Coconut,750ml,$14.00 ,Liquor-Vodka
+189,Devotion Perfect Cosmo,750ml,$14.00 ,Liquor-Vodka
+190,Devotion Wild Cherry,750ml,$14.00 ,Liquor-Vodka
+191,Dewar's White Label Blended Scotch,1L,$26.40 ,Liquor-Scotch
+192,Dewars 12,1L,$41.75 ,Liquor-Scotch
+193,Dewars 15,750ml,$38.95 ,Liquor-Scotch
+194,Disaronno Amaretto,1L,$34.40 ,Liquor-Cordial
+195,Divine Droplets,700ml,$48.67 ,Wine-Sake
+196,Divine Droplets,300ml,$22.67 ,Wine-Sake
+197,Dolce,375ml,$37.50 ,Wine-Dessert
+198,Dolin,750ml,$9.99 ,Liquor-Cordial
+199,Dom Perignon Brut [2003],750ml,$145.10 ,Wine-White
+200,Domaine Jolly Chablis,750ml,$27.05 ,Wine-White
+201,Domaine Ste Michelle,750ml,$8.50 ,Wine-White
+202,Dominus Napanook,750ml,$43.80 ,Wine-Red
+203,Don Julio Reposado,750ml,$46.80 ,Liquor-Tequila
+204,Don Q Mojito Rum,1L,$11.00 ,Liquor-Rum
+205,Donna Laura Ali Sangiovese,750ml,$7.99 ,Wine-Sales Items
+206,Dorde Double Chocolate,750ml,$26.70 ,Liquor-Liqueur
+207,Dr Loosen Riesling [2014],750ml,$8.67 ,Wine-White
+208,Drambuie,1L,$45.15 ,Liquor-Cordial
+209,Dry Sack,1L,$16.97 ,Liquor-Cordial
+210,duboeuf blanc,1.5L,$10.00 ,Wine-Unlisted
+211,duboeuf rouge,1.5L,$10.00 ,Wine-Unlisted
+212,Dubonnet Red,750ml,$11.00 ,Liquor-Cordial
+213,Duckhorn Decoy Cabernet,750ml,$20.05 ,Wine-Red
+214,Duckhorn Decoy Red Blend,750ml,$20.05 ,Wine-Red
+215,Duckhorn Merlot,375ml,$20.65 ,Wine-Half Bottle
+216,Duckhorn Migration,750ml,$27.75 ,Wine-Red
+217,Duckhorn Paraduxx,750ml,$33.25 ,Wine-Red
+218,Duckhorn Vineyards Cabernet [2012],750ml,$52.80 ,Wine-Red
+219,Duckhorn Vineyards Napa Valley Merlot [2011],750ml,$40.30 ,Wine-Red
+220,Dutton Goldfield,750ml,$30.30 ,Wine-Red
+221,Duvel,12oz,$2.26 ,Beer
+222,Effen Black Cherry,750ml,$18.80 ,Liquor-Vodka
+223,El Tesoro Anejo,750ml,$48.30 ,Liquor-Tequila
+224,Elements Cab/Blend,750ml,$13.50 ,Wine-Sales Items
+225,Elijah Craig,750ml,$29.30 ,Liquor-Bourbon
+226,Enza Prosecco,750ml,$10.55 ,Wine-White
+227,Epica Red Blend,750ml,$10.05 ,Wine-Red
+228,Eppa Sangria,750ml,$7.50 ,Wine-Red
+229,Etude Pinot Noir [2012],750ml,$28.80 ,Wine-Red
+230,Etude Pinot Noir [2013],375ml,$15.40 ,Wine-Half Bottle
+231,Excelsior,750ml,$8.55 ,Wine-Red
+232,Extreme Bean,1gal,$6.50 ,Liquor-Mixer
+233,Famous Grouse,1L,$25.70 ,Liquor-Scotch
+234,Far Niente Cabernet Estate Bottled [2011],750ml,$121.80 ,Wine-Red
+235,Far Niente Chardonnay [2012],750ml,$51.80 ,Wine-White
+236,Faust Cab,375ml,$22.40 ,Wine-Half Bottle
+237,Fernet Branca,750ml,$20.94 ,Liquor-Cordial
+238,Ferrari- Carano [2013],750ml,$15.00 ,Wine-White
+239,Ferreira Porto Tawny 20 Yr,750ml,$41.99 ,Wine-Dessert
+240,Ferreira Vintage '03,750ml,$47.99 ,Wine-Dessert
+241,filthy black cherry,8oz,$10.50 ,Liquor-Mixer
+242,Finest Call Simple Syrup,1L,$2.99 ,Liquor-Mixer
+243,Fireball Cinnamon Whiskey,1L,$17.20 ,Liquor-Whiskey
+244,Folie à Deux Pinot Grigio Ménage à Trois,750ml,$0.00 ,
+245,Francis Ford Coppola Sofia Blanc de Blancs,750ml,$12.00 ,Wine
+246,Franciscan Oakville Estate Magnificat [2011],750ml,$49.80 ,Wine-Red
+247,Frangelico Liq,1L,$36.15 ,Liquor-Cordial
+248,Frog's Leap Napa Valley Merlot [2011],750ml,$28.48 ,Wine-Red
+249,Frogs Leap Sauvignon Blanc,750ml,$19.48 ,Wine-White
+250,Fuki Plum Wine,750ml,$11.23 ,Wine-Unlisted
+251,Gabbiano Chianti,750ml,$7.00 ,Wine-Red
+252,Gaja Brunello,750ml,$69.80 ,Wine-Red
+253,Gaja Ca Marcanda,750ml,$127.50 ,Wine-Red
+254,Galliano,750ml,$33.70 ,Liquor-Cordial
+255,Galliano,375ml,$18.10 ,Liquor-Cordial
+256,Gallo Sweet Vermouth,750ml,$6.80 ,Liquor-Liqueur
+257,Gamble Family Vineyards Sauvignon Blanc,750ml,$14.50 ,Wine-White
+258,Gentleman Jack,1L,$39.40 ,Liquor-Bourbon
+259,Georges Duboeuf Beaujolais Nouveau,750ml,$8.25 ,Wine-Red
+260,Georges Duboeuf Pouilly-Fuisse [2011],750ml,$15.00 ,Wine-White
+261,Ginger Beer,12oz,$1.31 ,Liquor-Mixer
+262,Girard Artistry,750ml,$31.80 ,Wine-Red
+263,Girard Cabernet,750ml,$20.80 ,Wine-Red
+264,Girard Chardonnay,750ml,$17.81 ,Wine-White
+265,Girard Savigny Les Beaune,750ml,$31.00 ,Wine-Red
+266,Girard Zinfandel,750ml,$20.55 ,Wine-Red
+267,Girard Zinfandel,750ml,$20.55 ,Wine-Red
+268,Glen Carlou Chard,750ml,$8.95 ,Wine-Sales Items
+269,Glenfiddich 12 year,1L,$49.40 ,Liquor-Scotch
+270,glenfiddich 14 year,750ml,$33.33 ,Liquor-Scotch
+271,Glenlivet 12yr Single Malt Scotch,1L,$52.45 ,Liquor-Scotch
+272,Glenlivet 15Yr,750ml,$62.90 ,Liquor-Scotch
+273,Glenlivet 18Yr,750ml,$107.30 ,Liquor-Scotch
+274,Glenmorangie,1L,$48.15 ,Liquor-Scotch
+275,Gloria Ferrer Private Cuvee,750ml,$8.25 ,Wine-White
+276,Godiva Dark Chocolate Liqueur,750ml,$25.80 ,Liquor-Liqueur
+277,Godiva White Chocolate Liqueur,750ml,$25.80 ,Liquor-Liqueur
+278,Goldeneye Anderson Valley Pinot Noir,750ml,$41.80 ,Wine-Red
+279,Grahms Port 10Yr,750ml,$26.55 ,Wine-Dessert
+280,Grahms Port 20Yr,750ml,$42.30 ,Wine-Dessert
+281,Grand Marnier,1L,$43.75 ,Liquor-Cordial
+282,Grand Marnier Centenaire,1L,$162.30 ,Liquor-Cordial
+283,Greco Di Tufo Mastroberardino,750ml,$20.25 ,Wine-White
+284,Grenadine,1L,$2.99 ,Liquor-Mixer
+285,Grey Goose (168/2nd),1L,$28.39 ,Liquor-Vodka
+286,Grey Goose (1St),1L,$30.75 ,Liquor-Vodka
+287,Grey Goose Cherry,750ml,$31.19 ,Liquor-Vodka
+288,Grey Goose Cherry,1L,$40.75 ,Liquor-Vodka
+289,Grey Goose Citron,1L,$41.65 ,Liquor-Vodka
+290,Grey Goose L'Orange,1L,$39.50 ,Liquor-Vodka
+291,Grey Goose Pear,1L,$41.25 ,Liquor-Vodka
+292,Grey Goose VX,1L,$78.65 ,Liquor-Vodka
+293,Grgich Hills Napa Chardonnay [2010],750ml,$28.00 ,Wine-White
+294,Grolsch,12oz,$1.84 ,Beer
+295,Gruet Blanc De Noirs,750ml,$12.67 ,Wine-Sales Items
+296,Gtt,250ml,$0.00 ,
+297,Guado Al Tasso Vermentino,750ml,$19.80 ,Wine-White
+298,Guiness,12oz,$1.30 ,Beer
+299,Hacker-Pschorr,12oz,$1.33 ,Beer
+300,Hahn Cab,750ml,$7.75 ,Wine-House
+301,Hahn Estates Chardonnay [2014],750ml,$8.25 ,Wine-House
+302,Hahn Merlot,750ml,$7.75 ,Wine-House
+303,Harveys Bristol Cream,1L,$16.75 ,Liquor-Cordial
+304,Heineken bottle,12oz,$1.26 ,Beer
+305,Heineken can,12oz,$1.25 ,Beer
+306,Heineken Light,12oz,$1.26 ,Beer
+307,Hendricks,1L,$33.33 ,Liquor-Gin
+308,Hennessey Paradis,750ml,$819.30 ,Liquor-Cognac
+309,Hennessy VSOP Privledge,750ml,$76.15 ,Liquor-Cognac
+310,Hennessy VSOP Privledge,1L,$76.40 ,Liquor-Cognac
+311,High West,750ml,$31.80 ,Liquor-Vodka
+312,Highland 12,750ml,$49.48 ,Liquor-Scotch
+313,Highland 15,750ml,$67.48 ,Liquor-Scotch
+314,Hirsch,750ml,$30.73 ,Liquor-Bourbon
+315,Hot Damn!,1L,$12.73 ,Liquor-Liqueur
+316,Houhoushu,300ml,$11.99 ,Wine-Sake
+317,Huber Gruner Veltliner Hugo,750ml,$8.67 ,Wine-Sales Items
+318,Imperia,1L,$41.70 ,Liquor-Vodka
+319,"Inglenook ""Rubicon""",750ml,$151.50 ,Wine-Red
+320,Irish Mist,1L,$30.98 ,Liquor-Cordial
+321,J & B,1L,$27.00 ,Liquor-Scotch
+322,Jack And Bernies Blm Mix,1L,$3.95 ,Liquor-Mixer
+323,Jack Daniels,1L,$34.68 ,Liquor-Bourbon
+324,Jameson Black,1L,$56.15 ,Liquor-Whiskey
+325,Jameson Irish Whiskey,1L,$36.15 ,Liquor-Whiskey
+326,Jim Beam Black Bourbon,1L,$29.95 ,Liquor-Bourbon
+327,Jim Beam Bourbon,1L,$25.70 ,Liquor-Bourbon
+328,Jim Beam Honey,1L,$25.95 ,Liquor-Bourbon
+329,Jim Beam Kentucky Fire,1L,$25.70 ,Liquor-Bourbon
+330,Jim Beam Single Barrel,750ml,$28.13 ,Liquor-Bourbon
+331,Joe Carr,750ml,$15.75 ,Wine-Red
+332,Joel Gott,750ml,$12.39 ,Wine-Red
+333,Johnnie Black,1L,$42.25 ,Liquor-Scotch
+334,Johnnie Blue,750ml,$208.05 ,Liquor-Scotch
+335,Johnnie Gold,1L,$91.75 ,Liquor-Scotch
+336,Johnnie Red,1L,$29.15 ,Liquor-Scotch
+337,Johnniedouble Black,750ml,$28.12 ,Liquor-Scotch
+338,Jolivet Sancerre,375ml,$13.77 ,Wine-Half Bottle
+339,Jordan Cabernet,750ml,$46.00 ,Wine-Red
+340,Jordan Chardonnay,750ml,$27.68 ,Wine-White
+341,Jose Cuervo Reserva de la Familia Anejo Tequila,750ml,$151.80 ,Liquor-Tequila
+342,Joseph Drouhin Chass-Mont,750ml,$57.73 ,Wine-White
+343,Josh,750ml,$8.00 ,Wine-White
+344,Jp Wisers Rye,1L,$27.75 ,Liquor-Whiskey
+345,Jp Wisers Spiced Vanilla,1L,$27.75 ,Liquor-Whiskey
+346,Kahlua,1L,$31.10 ,Liquor-Cordial
+347,Kahlua Midnight,1L,$25.75 ,Liquor-Cordial
+348,Kahlua Midnight,750ml,$0.00 ,
+349,kai,750ml,$29.65 ,Liquor-Vodka
+350,Kendall Jackson Grand Rsv,750ml,$16.80 ,Wine-White
+351,Kerry Gold,750ml,$19.80 ,Liquor-Cordial
+352,Ketel Citron,1L,$35.25 ,Liquor-Vodka
+353,Ketel One (1St),1L,$28.50 ,Liquor-Vodka
+354,Ketel One (2Nd/300),1L,$27.25 ,Liquor-Vodka
+355,Killians,12oz,$1.00 ,Beer
+356,Kim Crawford,750ml,$11.25 ,Wine-White
+357,King Estat Vin Glace,375ml,$12.53 ,Wine-Dessert
+358,King Estate,750ml,$13.98 ,Wine-White
+359,Kirschwasser,750ml,$13.10 ,Liquor-Liqueur
+360,Kistler,750ml,$43.80 ,Wine-White
+361,Kj Vint Res Chardonnay,750ml,$9.99 ,Wine-White
+362,Knob Creek,1L,$43.60 ,Liquor-Bourbon
+363,Knob Creek Rye,750ml,$40.45 ,Liquor-Bourbon
+364,Korbel,1L,$13.25 ,Liquor-Cordial
+365,Krug Grand Cuvee,750ml,$167.22 ,Wine-White
+366,La Crema Chardonnay,750ml,$17.55 ,Wine-White
+367,La Fleur D'Or Sauternes,750ml,$23.33 ,Wine-Dessert
+368,La Fleur D'Or Sauternes,375ml,$14.67 ,Wine-Dessert
+369,La Scolca Black Label,750ml,$42.80 ,Wine-White
+370,Laboure Roi Gevrey Chambertain,750ml,$35.00 ,Wine-Red
+371,Lagavulin,750ml,$78.30 ,Liquor-Scotch
+372,Laphroaig 10,750ml,$44.30 ,Liquor-Scotch
+373,Laphroaig 18,750ml,$87.05 ,Liquor-Scotch
+374,Leblon Cachaca,1L,$21.50 ,Liquor-Rum
+375,Legend Of The Vine,750ml,$12.30 ,Wine-Sales Items
+376,Ler Cream De Noya,1L,$8.98 ,Liquor-Liqueur
+377,Ler Sloe Gin,1L,$5.72 ,Liquor-Liqueur
+378,Licor 43,750ml,$26.55 ,Liquor-Cordial
+379,Licor 43,1L,$30.23 ,Liquor-Cordial
+380,Lillet Blond,750ml,$18.30 ,Liquor-Cordial
+381,"Limoncello, Averna",750ml,$19.45 ,Liquor-Liqueur
+382,"Limoncello, Caravella",375ml,$9.06 ,Liquor-Liqueur
+383,"Limoncello, Di Capri",750ml,$25.80 ,Liquor-Liqueur
+384,Lindeman's Framboise,375ml,$4.50 ,Beer
+385,Lindeman's Pomme,750ml,$7.83 ,Beer
+386,listel rose,750ml,$8.00 ,Wine-Unlisted
+387,Livernano Chianti,750ml,$22.99 ,Wine-Unlisted
+388,Livernano L'Anima,750ml,$12.99 ,Wine-Unlisted
+389,Livernano Purosangue,750ml,$37.00 ,Wine-Unlisted
+390,Livio Felluga Picolit,500ml,$50.00 ,Wine-Dessert
+391,Livio Felluga Pinot Grigio,750ml,$17.30 ,Wine-White
+392,lombardo marsala,750ml,$6.00 ,Wine-Unlisted
+393,Louis Jadot Pouilly Fuisse,750ml,$23.98 ,Wine-White
+394,Louis La Tour Puligny Montrachet,750ml,$56.55 ,Wine-White
+395,Louis Latour Montagny,750ml,$17.55 ,Wine-White
+396,Lu Disiu,750ml,$44.00 ,Wine-Unlisted
+397,Luksusowa,1L,$10.00 ,Liquor-Vodka
+398,Macallan 12Yr,750ml,$47.00 ,Liquor-Scotch
+399,Macallan 17,750ml,$196.48 ,Liquor-Scotch
+400,Macallan 18,750ml,$173.23 ,Liquor-Scotch
+401,Macallan 25,750ml,$946.48 ,Liquor-Scotch
+402,Macallan Rare Cask,750ml,$226.48 ,Liquor-Scotch
+403,Maker's Mark Bourbon,750ml,$25.45 ,Liquor-Bourbon
+404,Makers Mark,1L,$40.45 ,Liquor-Bourbon
+405,Makers Mark 46,750ml,$34.10 ,Liquor-Bourbon
+406,Malibu Chocolate Sundae,750ml,$16.95 ,Liquor-Rum
+407,Malibu Coconut,750ml,$20.10 ,Liquor-Rum
+408,Malibu Red,1L,$25.00 ,Liquor-Rum
+409,Malvira Arneis,750ml,$12.67 ,Wine-White
+410,Malvira Birbet,750ml,$15.99 ,Wine-Dessert
+411,Manischewitz,750ml,$4.33 ,Wine-Unlisted
+412,Marchesa Gavi,750ml,$10.00 ,Wine-White
+413,Marie Br Anisette,750ml,$17.30 ,Liquor-Liqueur
+414,Mark West,750ml,$8.25 ,Wine-House
+415,Markham,750ml,$19.05 ,Wine-Red
+416,Markham Sauvignon Blanc,750ml,$9.95 ,Wine-White
+417,Martell Cordon Bleu,750ml,$157.05 ,Liquor-Cognac
+418,Martin Ray,750ml,$13.00 ,Wine-Red
+419,Martini Rosso Dry Ver,1L,$10.25 ,Liquor-Cordial
+420,Martini Rosso Sweet Ver,1L,$10.65 ,Liquor-Cordial
+421,Masi Amarone Costasera,750ml,$38.00 ,Wine-Red
+422,Meiomi,750ml,$12.25 ,Wine-Red
+423,Menage A Trois,750ml,$20.55 ,Liquor-Vodka
+424,Metaxa,750ml,$23.23 ,Liquor-Cognac
+425,Michael Pozzan,750ml,$9.99 ,Wine-White
+426,Michelle Chiarlo Grappa Di Barosa,375ml,$33.25 ,Liquor-Cordial
+427,Michelob Ultra bottle,12oz,$0.99 ,Beer
+428,Michelob Ultra Can,10oz,$0.97 ,Beer
+429,Midori Melon Liquor,1L,$25.10 ,Liquor-Liqueur
+430,Milagro Anejo,1L,$30.80 ,Liquor-Tequila
+431,Milagro Select Barrel Reserve Anejo,750ml,$70.80 ,Liquor-Tequila
+432,Milagro Silver Tequila,750ml,$23.20 ,Liquor-Tequila
+433,Miller can,12oz,$0.95 ,Beer
+434,Miller Lite bottle,12oz,$0.98 ,Beer
+435,Mionetto Prosecco (Split),187ml,$3.40 ,Wine-White
+436,Moet Imperial,750ml,$29.00 ,Wine-White
+437,Mondavi Fume Blanc,750ml,$16.60 ,Wine-White
+438,Mondavi Napa Cabernet,750ml,$25.80 ,Wine-Red
+439,Monin Agave Nectar,1L,$7.50 ,Liquor-Mixer
+440,Monin Pomegranate,750ml,$6.50 ,Liquor-Mixer
+441,Montevina Terra d'Oro Zinfandel,750ml,$9.95 ,Wine-Red
+442,Morgan 12 Clones,750ml,$26.23 ,Wine-Red
+443,Mount Veeder,750ml,$34.22 ,Wine-Red
+444,Mr Boston Black Raspberry,1L,$5.97 ,Liquor-Liqueur
+445,Mr. Boston Blue Curacao,1L,$6.70 ,Liquor-Liqueur
+446,Mumm Cordon Rouge,750ml,$42.75 ,Wine-White
+447,Mumm Napa Brut Prestige,187ml,$5.13 ,Wine-White
+448,Muscat Beaumes-De-Venise,375ml,$14.25 ,Wine-Dessert
+449,Myers Dark,1L,$28.15 ,Liquor-Rum
+450,new amsterdam,1L,$10.50 ,Liquor-Vodka
+451,Newton Red Label Cabernet,750ml,$12.00 ,Wine-Red
+452,Newton Red Label Chardonnay,750ml,$18.00 ,Wine-White
+453,Nickel & Nickel,750ml,$40.10 ,Wine-Red
+454,Noblaie Chinon Rouge,750ml,$14.67 ,Wine-Red
+455,Noilly Prat Dry Verm,1L,$9.50 ,Liquor-Cordial
+456,Noilly Prat Dry Vermouth,1L,$9.50 ,Liquor-Cordial
+457,Noilly Prat Sw Verm,1L,$9.50 ,Liquor-Cordial
+458,Nozzole Chianti,750ml,$19.48 ,Wine-Red
+459,O'Doul's N/A Beer Btl,12oz,$0.81 ,Beer
+460,Oban 14 Year,750ml,$68.55 ,Liquor-Scotch
+461,Oban Little Bay,750ml,$73.80 ,Liquor-Scotch
+462,Olives,1gal,$14.40 ,Liquor-Mixer
+463,Opus One,750ml,$177.50 ,Wine-Red
+464,"Orangecello, Caravella",750ml,$16.48 ,Liquor-Liqueur
+465,"Orangecello, Caravella",375ml,$9.67 ,Liquor-Liqueur
+466,Osborne Sherry,750ml,$11.60 ,Liquor-Cordial
+467,Ouzo,750ml,$16.80 ,Liquor-Cordial
+468,Oyster Bay,750ml,$7.95 ,Wine-White
+469,Patron Anejo,750ml,$47.22 ,Liquor-Tequila
+470,Patron Café,750ml,$23.30 ,Liquor-Tequila
+471,Patron Gran Platinum,750ml,$151.13 ,Liquor-Tequila
+472,Patron Incendio,375ml,$11.90 ,Liquor-Tequila
+473,Patron Reposado,750ml,$42.89 ,Liquor-Tequila
+474,Patron Roca Reposado,750ml,$68.80 ,Liquor-Tequila
+475,Patron Silver,50ml,$5.95 ,Liquor-Tequila
+476,Patron Silver,750ml,$38.00 ,Liquor-Tequila
+477,Paulaner Oktoberfest,12oz,$1.33 ,Beer
+478,Peach Moscato,250ml,$1.88 ,Wine-Can
+479,Pepperoncini,1gal,$6.00 ,Liquor-Mixer
+480,Pernod,750ml,$32.90 ,Liquor-Cordial
+481,Perrier Jouet Grand Brut,375ml,$20.15 ,Wine-Half Bottle
+482,pessac leognan de haut bailly [2013],750ml,$17.99 ,Wine-Red
+483,Peychaud Bitters,10oz,$6.00 ,Liquor-Liqueur
+484,Peychaud's Aromatic Bitters,10oz,$6.00 ,Liquor-Cordial
+485,Pimms Cup,750ml,$18.55 ,Liquor-Cordial
+486,Pinnacle Marshmallow,1L,$14.65 ,Liquor-Vodka
+487,Pinnacle Pumpkin Pie,750ml,$17.55 ,Liquor-Vodka
+488,Piper Heidseick,750ml,$29.98 ,Wine-White
+489,Planeta Chardonnay,750ml,$29.80 ,Wine-White
+490,Planeta La Segreta,750ml,$12.30 ,Wine-Red
+491,Plumpjack,750ml,$37.48 ,Wine-White
+492,Pommery Pop,187ml,$8.46 ,Wine-White
+493,Powers,1L,$36.50 ,Liquor-Whiskey
+494,Primus Malbec,750ml,$11.80 ,Wine-Red
+495,Pucker Watermelon,1L,$12.45 ,Liquor-Liqueur
+496,Purity Vodka,1L,$39.65 ,Liquor-Vodka
+497,ramey ritchie chardonnay,750ml,$0.00 ,
+498,Ramos Pinto LBV,750ml,$13.50 ,Wine-Dessert
+499,Ravenswood Zinfandel,750ml,$15.90 ,Wine-Red
+500,Razzmatazz,1L,$12.45 ,Liquor-Liqueur
+501,Recanati Cabernet,750ml,$11.50 ,Wine-Unlisted
+502,Recanati Chardonnay,750ml,$11.50 ,Wine-Unlisted
+503,Red Bull Can,250ml,$1.50 ,Liquor-Mixer
+504,Red Sangria,250ml,$1.88 ,Wine-Can
+505,Redemption Rye,750ml,$24.80 ,Liquor-Bourbon
+506,Relax Pinot Grigio 750,750ml,$0.00 ,
+507,Remy Martin 1738 Accord Royal Cognac,1L,$53.20 ,Liquor-Cognac
+508,Remy Martin VSOP,1L,$45.47 ,Liquor-Cognac
+509,Remy Martin XO,750ml,$168.98 ,Liquor-Cognac
+510,Rex Hill,750ml,$23.99 ,Wine-Red
+511,Ricarde,750ml,$9.75 ,Liquor-Cordial
+512,Rimmer,1gal,$0.00 ,Liquor-Mixer
+513,Robert Craig Affinity,750ml,$42.73 ,Wine-Red
+514,Robert Mondavi Chardonnay,750ml,$8.45 ,Wine-Sales Items
+515,Rocca Delle Macie Vernaccia,750ml,$11.80 ,Wine-White
+516,Rodney Strong Alexander,750ml,$20.80 ,Wine-Red
+517,Rogue Hazelnut,12oz,$1.87 ,Beer
+518,Rombauer,750ml,$29.20 ,Wine-White
+519,Rose Moscato,250ml,$1.88 ,Wine-Can
+520,rose's lime,12oz,$0.00 ,
+521,Rose's Lime Juice,1L,$4.75 ,Liquor-Mixer
+522,Roses Grenadine,1L,$3.99 ,Liquor-Mixer
+523,Rosso -Col D'Orcia,750ml,$15.80 ,Wine-Red
+524,Ruffino Reserve Ducale Gold,750ml,$31.80 ,Wine-Red
+525,RumChata Liqueur,1L,$21.70 ,Liquor-Liqueur
+526,Russian Standard,1L,$17.50 ,Liquor-Vodka
+527,Russian Standard Gold,1L,$29.99 ,Liquor-Vodka
+528,Russian Standard Platinum,1L,$19.50 ,Liquor-Vodka
+529,Ruta 22 Malbec,750ml,$8.00 ,Wine-Red
+530,Rutherford Hill Merlot,750ml,$16.75 ,Wine-Red
+531,Rutherford Hill Merlot,375ml,$9.55 ,Wine-Half Bottle
+532,Sake,300ml,$4.75 ,Wine-Sake
+533,"Sake, Sho Chu Bai",750ml,$6.35 ,Wine-Sake
+534,"Sake, Ty Ku",750ml,$13.50 ,Wine-Sake
+535,Salentein Malbec,750ml,$12.25 ,Wine-Red
+536,Salentein Reserve,750ml,$12.25 ,Wine-White
+537,Sam Adams,12oz,$1.30 ,Beer
+538,Sam Adams Cherry Wheat,12oz,$1.28 ,Beer
+539,Sambuca Romana Blk,750ml,$25.05 ,Liquor-Cordial
+540,Sambuca White,1L,$33.65 ,Liquor-Cordial
+541,Sammy's Beach Bar,750ml,$16.80 ,Liquor-Rum
+542,Sandeman Ruby Port,750ml,$10.34 ,Wine-Unlisted
+543,Sanford Chardonnay,750ml,$22.80 ,Wine-White
+544,Santa Julia Pg,750ml,$6.25 ,Wine-Sales Items
+545,Santa Margherita,750ml,$16.74 ,Wine-White
+546,Santa Rita Carmenere,750ml,$11.60 ,Wine-Red
+547,Santa Rita Casa Real Cab,750ml,$60.00 ,Wine-Red
+548,Sauvion Sancerre,750ml,$20.55 ,Wine-White
+549,Sauza Blue Silver Tequila,1L,$15.50 ,Liquor-Tequila
+550,Schramsberg Brut Rose,750ml,$17.50 ,Wine-White
+551,Scott Paul,750ml,$25.75 ,Wine-Red
+552,Seagrams 7,1L,$19.65 ,Liquor-Whiskey
+553,Seagrams VO,1L,$22.65 ,Liquor-Whiskey
+554,"Seresin ""Momo"" Sauv Blanc",750ml,$10.67 ,Wine-Sales Items
+555,Seven Daughters Moscato,750ml,$7.95 ,Wine-White
+556,Seven Falls Chardonnay,750ml,$9.75 ,Wine-Sales Items
+557,Seven Falls Merlot,750ml,$10.85 ,Wine-Sales Items
+558,Sheri wine,852lb,$0.00 ,
+559,Shock Top Apple,12oz,$1.03 ,Beer
+560,Shock Top Pumpkin,12oz,$1.06 ,Beer
+561,Sierra Nevada Pale Ale,12oz,$1.30 ,Beer
+562,Silver Oak Alexander Cab,750ml,$53.98 ,Wine-Red
+563,Simi Landslide,750ml,$29.80 ,Wine-Red
+564,Simonnet Febvre Cremant,750ml,$13.50 ,Wine-White
+565,Simonnet-Febvre Saint Bris,750ml,$10.25 ,Wine-White
+566,Skinny Girl,750ml,$21.70 ,Liquor-Vodka
+567,Skinny Girl,750ml,$9.30 ,Wine-White
+568,skinny girl white blend,750ml,$9.30 ,Wine-White
+569,Smirnoff,1L,$18.07 ,Liquor-Vodka
+570,Smirnoff Apple,1L,$18.07 ,Liquor-Vodka
+571,Smirnoff Cherry,1L,$17.17 ,Liquor-Vodka
+572,Smirnoff Fluffed Marshmallow Vodka,1ml,$17.57 ,Liquor-Vodka
+573,Smirnoff Whipped Cream,1L,$17.32 ,Liquor-Vodka
+574,Smith & Hook Cabernet [2013],750ml,$13.50 ,Wine-Red
+575,Snake Charmer Shiraz,750ml,$11.33 ,Wine-Red
+576,Soho Lychee,750ml,$19.05 ,Liquor-Liqueur
+577,Sonoma Cutrer,375ml,$9.75 ,Wine-Half Bottle
+578,Sonoma Cutrer,750ml,$13.95 ,Wine-White
+579,Southern Comfort,1L,$23.90 ,Liquor-Cordial
+580,Spaten,12oz,$1.30 ,Beer
+581,Spring Valley Frederick,750ml,$39.50 ,Wine-Red
+582,St Andre Figuiere Rose 12,750ml,$11.33 ,Wine-Rose
+583,St Francis White Splash,750ml,$10.73 ,Wine-White
+584,St Supery 2007,750ml,$26.50 ,Wine-Red
+585,St Supery Virtu,750ml,$16.48 ,Wine-White
+586,St. Germain,750ml,$35.55 ,Liquor-Cordial
+587,Stag's Leap Merlot,750ml,$27.40 ,Wine-Red
+588,Stags Leap Artemis,750ml,$48.30 ,Wine-Red
+589,Stags Leap Artemis,375ml,$24.65 ,Wine-Half Bottle
+590,Stags Leap Cask 23 2008,750ml,$163.05 ,Wine-Red
+591,Stags Leap Karia,750ml,$26.55 ,Wine-White
+592,Stags Leap Wine Cellars,750ml,$33.00 ,Wine-Red
+593,Stags Leap Winery,750ml,$27.40 ,Wine-Red
+594,Stags' Leap Winery Napa Merlot [2009],750ml,$27.40 ,Wine-Red
+595,Stella,12oz,$1.32 ,Beer
+596,Stella Artois Can,14.9oz,$1.44 ,Beer
+597,Sterling Aromatic,750ml,$10.25 ,Wine-Sales Items
+598,Stillhouse Original Moonshine Corn Whiskey,750ml,$0.00 ,
+599,Stoli,1L,$17.50 ,Liquor-Vodka
+600,Stoli Elite,750ml,$53.60 ,Liquor-Vodka
+601,Stoli Elite,1L,$64.00 ,Liquor-Vodka
+602,Stoli Gold,1L,$31.65 ,Liquor-Vodka
+603,Stoli Orange,1L,$32.15 ,Liquor-Vodka
+604,Stoli Raspberry,1L,$32.15 ,Liquor-Vodka
+605,Stoli Vanil Vodka,1L,$32.15 ,Liquor-Vodka
+606,Stony Moscat,375ml,$8.88 ,Wine-Dessert
+607,Stoudt's Oktoberfest,12oz,$1.46 ,Beer
+608,Strawberry Moscato,250ml,$1.88 ,Wine-Can
+609,Sugar Island Coconut,750ml,$14.17 ,Liquor-Rum
+610,Summers Cab,750ml,$18.75 ,Wine-Sales Items
+611,Taittinger,750ml,$25.50 ,Wine-White
+612,Taittinger Brut Prestige Rose,750ml,$55.00 ,Wine-Rose
+613,Talisker 10 Year,750ml,$58.05 ,Liquor-Scotch
+614,Talisker Storm,750ml,$60.00 ,Liquor-Scotch
+615,Tanqueray,1L,$24.00 ,Liquor-Gin
+616,Tanqueray 10,1L,$32.90 ,Liquor-Gin
+617,Tattinger Rose,750ml,$55.00 ,Wine-White
+618,Taylor Cooking Sherry,750ml,$9.00 ,Wine-Unlisted
+619,Terra D'Oro Red Zin,750ml,$14.00 ,Wine-Red
+620,Terre Da Vino Moscato,750ml,$7.50 ,Wine-White
+621,The Calling Cabernet,750ml,$28.05 ,Wine-Red
+622,The Calling Chardonnay,750ml,$22.80 ,Wine-White
+623,Tia Maria,1L,$24.20 ,Liquor-Cordial
+624,Tito's Handmade Vodka,750ml,$0.00 ,Liquor-Vodka
+625,Titos,1L,$21.75 ,Liquor-Vodka
+626,Titos,1L,$22.75 ,Liquor-Vodka
+627,titos,50ml,$1.30 ,Liquor-Vodka
+628,Tommy Bahama Gold,1L,$31.00 ,Liquor-Rum
+629,Tommy Bahama White,1L,$31.00 ,Liquor-Rum
+630,Trentadue Amore Port,375ml,$17.33 ,Wine-Dessert
+631,"Triple Sec, Mr. Boston",1L,$4.50 ,Liquor-Liqueur
+632,Twomey Merlot,750ml,$35.98 ,Wine-Red
+633,Twomey Pinot Noir,750ml,$37.31 ,Wine-Red
+634,Valserrano Rioja,750ml,$14.39 ,Wine-Unlisted
+635,Van Duzer,750ml,$14.94 ,Wine-Red
+636,Van Gogh,1L,$19.95 ,Liquor-Vodka
+637,Van Gogh Banana,1L,$21.65 ,Liquor-Vodka
+638,Van Gogh Black Cherry,1L,$21.65 ,Liquor-Vodka
+639,Van Gogh Blue (Triple Wheat),1L,$32.22 ,Liquor-Vodka
+640,Van Gogh Blueberry,1L,$21.65 ,Liquor-Vodka
+641,Van Gogh Caramel,1L,$21.65 ,Liquor-Vodka
+642,Van Gogh Citreon,1L,$21.65 ,Liquor-Vodka
+643,Van Gogh Coconut,1L,$21.65 ,Liquor-Vodka
+644,Van Gogh Double Espresso,1L,$19.95 ,Liquor-Vodka
+645,Van Gogh Dutch Chocolate,1L,$19.22 ,Liquor-Vodka
+646,Van Gogh Espresso,1L,$19.95 ,Liquor-Vodka
+647,Van Gogh Grape,1L,$21.65 ,Liquor-Vodka
+648,Van Gogh Mango,1L,$21.65 ,Liquor-Vodka
+649,Van Gogh Melon,1L,$21.65 ,Liquor-Vodka
+650,Van Gogh Peach,1L,$21.65 ,Liquor-Vodka
+651,Van Gogh Pineapple,1L,$21.65 ,Liquor-Vodka
+652,Van Gogh Raspberry,1L,$21.65 ,Liquor-Vodka
+653,Van Gogh Rich Dark Chocolate,1L,$19.22 ,Liquor-Vodka
+654,Van Gogh Vanilla,1L,$21.65 ,Liquor-Vodka
+655,Veronica Rummmm Yum,750ml,$100.00 ,Liquor-Rum
+656,Veuve Clicquot Yellow,750ml,$55.80 ,Wine-White
+657,Victory Festbier,12oz,$1.40 ,Beer
+658,Vieux Telegraphe,750ml,$64.67 ,Wine-Red
+659,Villa Antinori Toscana [2012],750ml,$16.99 ,Wine-Red
+660,Vino Maipo Vitral Cabernet,750ml,$11.25 ,Wine-Unlisted
+661,Vox,1L,$23.35 ,Liquor-Vodka
+662,Watari Brune,720ml,$27.99 ,Wine-Sake
+663,White Moscato,250ml,$1.88 ,Wine-Can
+664,White Oak,750ml,$12.00 ,Wine-White
+665,White Sangria,250ml,$1.88 ,Wine-Can
+666,Williams Selyem,750ml,$73.47 ,Wine-Red
+667,Woodford,1L,$44.53 ,Liquor-Bourbon
+668,Yalumba Antique Tawny,375ml,$0.00 ,
+669,Yazi,1L,$34.43 ,Liquor-Vodka
+670,Zenato Ripassa,750ml,$18.75 ,Wine-Red
+671,Zyr,1L,$38.35 ,Liquor-Vodka
