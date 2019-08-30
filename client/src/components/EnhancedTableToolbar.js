@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import PropTypes from "prop-types";
 import clsx from "clsx";
 import FilterList from "./FilterList";
+import Search from "./Search";
 import { lighten, makeStyles } from "@material-ui/core/styles";
 import Toolbar from "@material-ui/core/Toolbar";
 import Typography from "@material-ui/core/Typography";
@@ -11,7 +12,7 @@ import DeleteIcon from "@material-ui/icons/Delete";
 import FilterListIcon from "@material-ui/icons/FilterList";
 import Cached from "@material-ui/icons/Cached";
 import Drawer from "@material-ui/core/Drawer";
-import Search from './Search'
+
 
 const useToolbarStyles = makeStyles((theme) => ({
 	root: {
@@ -49,7 +50,8 @@ const EnhancedTableToolbar = (props) => {
 			handleSearch,
 			handleRefresh
 		} = props;
-	const [filterShow, filterClick] = React.useState(false);
+	const [filterShow, filterClick] = React.useState( false );
+	const [addShow, handleAddExpand] = React.useState(false);
     
 	const handleFilterClick = (event) => {
 		filterClick(event.currentTarget);
@@ -57,7 +59,7 @@ const EnhancedTableToolbar = (props) => {
 	const handleFilterClose = () => {
 		filterClick(null);
 	};
-
+	
 	const handleDeleteClick = (id) => {       
 		fetch(`/api/drinks/`, {
 			method: "delete",
@@ -96,9 +98,12 @@ const EnhancedTableToolbar = (props) => {
 					</Tooltip>
 				) : (
 					<div style={{ display: "flex" }}>
-						<IconButton onClick={handleRefresh} aria-label='delete'>
+						<IconButton onClick={handleRefresh} aria-label='refresh'>
 							<Cached />
 						</IconButton>
+						{/* <IconButton onClick={() => handleAddExpand(true)} aria-label='add'>
+							<Add />
+						</IconButton> */}
 						<Search handleSearch={handleSearch} />
 						<Tooltip title='Filter list'>
 							<IconButton aria-label='filter list' onClick={handleFilterClick}>
@@ -114,6 +119,20 @@ const EnhancedTableToolbar = (props) => {
 					</div>
 				)}
 			</div>
+			{/* <ExpansionPanel>
+				<ExpansionPanelSummary
+					expandIcon={<Add />}
+					aria-controls='panel1a-content'
+					id='panel1a-header'>
+					<Typography className={classes.heading}>Add New Item</Typography>
+				</ExpansionPanelSummary>
+				<ExpansionPanelDetails>
+					<Typography>
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+						malesuada lacus ex, sit amet blandit leo lobortis eget.
+					</Typography>
+				</ExpansionPanelDetails>
+			</ExpansionPanel> */}
 		</Toolbar>
 	);
 };

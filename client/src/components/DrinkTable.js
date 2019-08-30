@@ -1,5 +1,8 @@
-import React from "react";
+import React, { useEffect } from "react";
 import PropTypes from "prop-types";
+import EnhancedTableToolbar from "./EnhancedTableToolbar";
+import { headRows } from "../constants/constants";
+
 import { lighten, makeStyles } from "@material-ui/core/styles";
 import Table from "@material-ui/core/Table";
 import TableBody from "@material-ui/core/TableBody";
@@ -10,8 +13,9 @@ import TableRow from "@material-ui/core/TableRow";
 import TableSortLabel from "@material-ui/core/TableSortLabel";
 import Paper from "@material-ui/core/Paper";
 import Checkbox from "@material-ui/core/Checkbox";
-import EnhancedTableToolbar from "./EnhancedTableToolbar";
-import { headRows, SearchHeadNames } from "../constants/constants";
+import Edit from "@material-ui/icons/Edit";
+import Drawer from "@material-ui/core/Drawer";
+import IconButton from "@material-ui/core/IconButton";
 
 function desc(a, b, orderBy) {
 	if (b[orderBy] < a[orderBy]) {
@@ -126,13 +130,14 @@ const useStyles = makeStyles((theme) => ({
 	}
 }));
 
-export default function DrinkTable({ drinkData }) {
+export default function DrinkTable({ drinkData, showEditForm }) {
 	const classes = useStyles();
 	const [rows, setRows] = React.useState(drinkData);
 	const [order, setOrder] = React.useState("asc");
 	const [orderBy, setOrderBy] = React.useState("Description");
 	const [selected, setSelected] = React.useState([]);
 	const [page, setPage] = React.useState(0);
+	const [editOpen, setEditOpen] = React.useState(false);
 	const [rowsPerPage, setRowsPerPage] = React.useState(10);
 
 	function handleRequestSort(event, property) {
@@ -181,29 +186,30 @@ export default function DrinkTable({ drinkData }) {
 	const filterResult = (tableHead, type) => {
 		setRows(rows.filter((row) => row[tableHead] === type));
 	};
-  const handleRefresh = () =>
-  {
-    console.log('ya')
-   setRows(drinkData)
- }
-	const handleSearch = (searchTerm) => {
-    const newArray = rows.filter(
-			(item) =>
-				item.Description.toLowerCase().includes(searchTerm.toString().toLowerCase()) ||
-				item.Volume.includes(searchTerm.toString()) ||
-				item.Category.toLowerCase().includes(searchTerm.toString().toLowerCase()) ||
-				item.Cost.includes(searchTerm.toString())
-		);
-    if ( searchTerm.length > 2 )
-    {
-      setRows(newArray)
-    }
-    else
-    {
-      setRows(drinkData);
-    }
+	const handleRefresh = () => {
+		setRows(drinkData);
 	};
-
+	const handleSearch = (searchTerm) => {
+		const newArray = rows.filter(
+			(item) =>
+				(item.Description &&
+					item.Description.toLowerCase().includes(
+						searchTerm.toString().toLowerCase()
+					)) ||
+				(item.Volume && item.Volume.includes(searchTerm.toString())) ||
+				(item.Category &&
+					item.Category.toLowerCase().includes(
+						searchTerm.toString().toLowerCase()
+					)) ||
+				(item.Cost && item.Cost.includes(searchTerm.toString()))
+		);
+		if (searchTerm.length > 2) {
+			setRows(newArray);
+		} else {
+			setRows(drinkData);
+		}
+	};
+	const handleEditClick = () => {};
 	const deleteResult = () => {
 		setRows(rows.filter((f) => !selected.includes(f.ID)));
 		setSelected([]);
@@ -212,6 +218,7 @@ export default function DrinkTable({ drinkData }) {
 
 	const emptyRows =
 		rowsPerPage - Math.min(rowsPerPage, rows.length - page * rowsPerPage);
+
 	return (
 		<div className={classes.root}>
 			<Paper className={classes.paper}>
@@ -237,6 +244,7 @@ export default function DrinkTable({ drinkData }) {
 							onRequestSort={handleRequestSort}
 							rowCount={rows.length}
 						/>
+
 						<TableBody>
 							{stableSort(rows, getSorting(order, orderBy))
 								.slice(page * rowsPerPage, page * rowsPerPage + rowsPerPage)
@@ -247,7 +255,6 @@ export default function DrinkTable({ drinkData }) {
 									return (
 										<TableRow
 											hover
-											onClick={(event) => handleClick(event, row.ID)}
 											role='checkbox'
 											aria-checked={isItemSelected}
 											tabIndex={-1}
@@ -255,8 +262,11 @@ export default function DrinkTable({ drinkData }) {
 											selected={isItemSelected}>
 											<TableCell padding='checkbox'>
 												<Checkbox
+													onClick={(event) => handleClick(event, row.ID)}
 													checked={isItemSelected}
-													inputProps={{ "aria-labelledby": labelId }}
+													inputProps={{
+														"aria-labelledby": labelId
+													}}
 												/>
 											</TableCell>
 											<TableCell
@@ -266,10 +276,20 @@ export default function DrinkTable({ drinkData }) {
 												padding='none'>
 												{row.Description}
 											</TableCell>
+											<TableCell align='left'>{row.Category}</TableCell>
 											<TableCell align='right'>{row.Volume}</TableCell>
 											<TableCell align='right'>{row.Cost}</TableCell>
-											<TableCell align='left'>{row.Category}</TableCell>
-											<TableCell align='right'>{row.ID}</TableCell>
+											<TableCell align='right'>
+												<IconButton onClick={() => showEditForm(row.ID)}>
+													<Edit />
+												</IconButton>
+												{/* <Dialog
+													onClose={() => setEditOpen(false)}
+													aria-labelledby='simple-dialog-title'
+													open={editOpen}>
+													ya
+												</Dialog> */}
+											</TableCell>
 										</TableRow>
 									);
 								})}
