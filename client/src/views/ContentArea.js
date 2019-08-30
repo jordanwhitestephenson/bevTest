@@ -5,36 +5,45 @@ import EditItem from "../views/EditItem";
 
 export default function ContentArea() {
 	const [drinkData, getData] = useState([]);
-	const [editForm, showEdit] = useState( false );
+	const [editForm, showEdit] = useState(false);
 	const [editID, sendEditID] = useState("");
-	useEffect(() => {
-		const loadData = async () => {
-			fetch("/api/drinks")
-				.then((res) => res.json())
-				.then((result) => {
-					getData(result);
-				});
-		};
-		loadData();
-	}, [drinkData]);
 
-	const showEditForm = ( id ) =>
-	{
-		sendEditID(id)
+	const fetchData = async () => {
+		fetch("/api/drinks")
+			.then((res) => res.json())
+			.then((result) => {
+				getData(result);
+			});
+	};
+
+	useEffect(() => {
+		fetchData(drinkData);
+	}, [editForm]);
+
+
+	const showEditForm = (id) => {
+		sendEditID(id);
 		showEdit(true);
 	};
-	const handleGoBack = () =>
-	{
-		showEdit(false)
-	}
+	const handleGoBack = () => {
+		showEdit(false);
+	};
 	return (
 		<div>
 			{drinkData.length ? (
 				<Container fixed>
 					{editForm ? (
-						<EditItem handleGoBack={handleGoBack} editID={editID}/>
+						<EditItem
+							handleGoBack={handleGoBack}
+							editID={editID}
+							editForm={editForm}
+						/>
 					) : (
-						<DrinkTable drinkData={drinkData} showEditForm={showEditForm} />
+						<DrinkTable
+							drinkData={drinkData}
+							showEditForm={showEditForm}
+							updateAction={!editForm}
+						/>
 					)}
 				</Container>
 			) : (

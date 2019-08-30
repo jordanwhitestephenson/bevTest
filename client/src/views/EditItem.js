@@ -34,26 +34,27 @@ const useStyles = makeStyles((theme) => ({
 		marginTop: 30
 	}
 }));
-const EditItem = ({ handleGoBack, editID }) => {
-	const [edit, editData] = useState("");
+const EditItem = ({ handleGoBack, editID, editForm }) => {
 	const [description, editDescription] = useState("");
 	const [category, editCategory] = useState("");
 	const [volume, editVolume] = useState("");
 	const [cost, editCost] = useState("");
+	const [data, resetData] = useState(false);
 	const classes = useStyles();
+
+	console.log(editForm);
+	//THIS WORKS PRETTY WELL - just blank after edit and go back to edit same ID
 	useEffect(() => {
-		const loadData = async () => {
-			fetch(`/api/drinks/${editID}`)
-				.then((res) => res.json())
-				.then((result) => {
-					editDescription(result[0].Description);
-					editCategory(result[0].Category);
-					editVolume(result[0].Volume);
-					editCost(result[0].Cost);
-				});
-		};
-		loadData();
+		fetch(`/api/drinks/${editID}`)
+			.then((res) => res.json())
+			.then((result) => {
+				editDescription(result[0].Description);
+				editCategory(result[0].Category);
+				editVolume(result[0].Volume);
+				editCost(result[0].Cost);
+			});
 	}, []);
+
 	const handleEditSubmit = () => {
 		const resultObject = {
 			Description: description,
@@ -67,9 +68,13 @@ const EditItem = ({ handleGoBack, editID }) => {
 			headers: {
 				"Content-Type": "application/json"
 			}
-		}).then(console.log("handleEdit"));
-		
+		})
+			.then(handleGoBack());
 	};
+
+	//Warning: Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.
+	// in EditItem (at ContentArea.js:31)
+
 	return (
 		<div className={classes.editItemContainer}>
 			<Paper>

@@ -133,11 +133,19 @@ const useStyles = makeStyles((theme) => ({
 export default function DrinkTable({ drinkData, showEditForm }) {
 	const classes = useStyles();
 	const [rows, setRows] = React.useState(drinkData);
+
+	const fetchData = async () => {
+		setRows(drinkData);
+	};
+
+	useEffect(() => {
+		fetchData(drinkData);
+	}, [drinkData]);
+
 	const [order, setOrder] = React.useState("asc");
 	const [orderBy, setOrderBy] = React.useState("Description");
 	const [selected, setSelected] = React.useState([]);
 	const [page, setPage] = React.useState(0);
-	const [editOpen, setEditOpen] = React.useState(false);
 	const [rowsPerPage, setRowsPerPage] = React.useState(10);
 
 	function handleRequestSort(event, property) {
@@ -209,7 +217,7 @@ export default function DrinkTable({ drinkData, showEditForm }) {
 			setRows(drinkData);
 		}
 	};
-	const handleEditClick = () => {};
+
 	const deleteResult = () => {
 		setRows(rows.filter((f) => !selected.includes(f.ID)));
 		setSelected([]);
@@ -283,12 +291,6 @@ export default function DrinkTable({ drinkData, showEditForm }) {
 												<IconButton onClick={() => showEditForm(row.ID)}>
 													<Edit />
 												</IconButton>
-												{/* <Dialog
-													onClose={() => setEditOpen(false)}
-													aria-labelledby='simple-dialog-title'
-													open={editOpen}>
-													ya
-												</Dialog> */}
 											</TableCell>
 										</TableRow>
 									);

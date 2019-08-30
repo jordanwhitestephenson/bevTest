@@ -38,15 +38,9 @@ const useStyles = makeStyles( {
 
 export default function FilterList( { filterResult } ) {
     const classes = useStyles();
-    const [state, setState] = React.useState( {
-        top: false,
-        left: false,
-        bottom: false,
-        right: false,
-    } );
     const [open, setOpen] = React.useState( false );
     const [volumeOpen, setVolumeOpen] = React.useState( false );
-
+    console.log('ya')
     function handleCategory() {
         setOpen( !open );
     }

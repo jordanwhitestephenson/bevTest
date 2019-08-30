@@ -22,13 +22,13 @@ app.get("/api/drinks", function(req, res) {
 			res.send(rows);
 		}
 	);
-} );
+});
 
-app.get( "/api/drinks/:id", function ( req, res )
-{
-	const id = req.params.id
+app.get("/api/drinks/:id", function(req, res) {
+	const id = req.params.id;
 	db.all(
-		"SELECT ID, Description, Volume, Cost, Category FROM item_master WHERE ID=?", id,
+		"SELECT ID, Description, Volume, Cost, Category FROM item_master WHERE ID=?",
+		id,
 		function(err, rows) {
 			res.send(rows);
 		}
@@ -45,15 +45,17 @@ app.delete("/api/drinks", function(req, res) {
 });
 
 app.post("/api/drinks", function(req, res) {
-    const body = req.body;
-    const id =
-			Math.random()
-				.toString(36)
-				.substring(2, 15) +
-			Math.random()
-				.toString(36)
-				.substring(2, 15);
-    db.run(`INSERT INTO item_master(ID, Description, Volume, Cost, Category) VALUES (?, ?, ?, ?, ?)`, [id, body.Description, body.Volume, body.Cost, body.Category],
+	const body = req.body;
+	const id =
+		Math.random()
+			.toString(36)
+			.substring(2, 15) +
+		Math.random()
+			.toString(36)
+			.substring(2, 15);
+	db.run(
+		`INSERT INTO item_master(ID, Description, Volume, Cost, Category) VALUES (?, ?, ?, ?, ?)`,
+		[id, body.Description, body.Volume, body.Cost, body.Category],
 		function(err) {
 			if (err) {
 				return console.log(err.message);
@@ -62,13 +64,18 @@ app.post("/api/drinks", function(req, res) {
 			console.log(`A row has been inserted with rowid ${this.lastID}`);
 		}
 	);
-} );
+});
 
 app.put("/api/drinks/:id", function(req, res) {
 	const id = req.params.id;
-	const body = req.body
-	db.run(`UPDATE item_master SET Description = ? WHERE ID = ?`, [body.Description, id], function(res) {
-		console.log(this.changes);
-	});
+	const body = req.body;
+	db.run(
+		`UPDATE item_master
+      SET Description = ?,
+        Volume = ?,
+        Cost = ?,
+        Category = ?
+      WHERE id = ?`,
+		[body.Description, body.Volume, body.Cost, body.Category, id]
+	)
 });
-
